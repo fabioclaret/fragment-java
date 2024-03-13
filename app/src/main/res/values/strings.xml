@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragments com Tabs Java</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Primeira Tela Java</string>
+    <string name="terceira_tela_java">Terceira Tela Java</string>
+    <string name="segunda_tela_java">Segunda Tela Java</string>
+</resources>
